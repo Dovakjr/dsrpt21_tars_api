@@ -1,5 +1,5 @@
 ## Sobre
-Segunda parte da avaliação de Sistemas Distribu79524os e Dloud Computing, projeto DSRPT21.
+Segunda parte da avaliação de Sistemas Distribuìdos e Dloud Computing, projeto DSRPT21.
 
 API Node.js para controle e rastreio de containers.
 
